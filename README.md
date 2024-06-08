@@ -3,6 +3,8 @@
 
 <img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
 <img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este aplicativo é uma lista telefônica que permite aos usuários gerenciar seus contatos de forma eficiente. Suas principais funcionalidades incluem:
